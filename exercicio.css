@@ -1,29 +1,30 @@
 
 body{
     font-family: 'Scada', sans-serif;
-    background-color: lightpink;
+    background-color:cornflowerblue;
     color: red;
     margin: 60px;
 }
 
 h1{
-    color: green;
-    background-color: grey;
+    color:red;
+    background-color:cyan;
 }
 
 p{
-    color: blue;
+    color:black;
+    background-color: azure;
 }
 
 ul{
-    color: blue;
+    color:indigo;
 }
 
 img{
-    width: 100px;
+    width: 200px;
     height: 100px;
 }
 
 li{
-    background-color: seagreen;
+    background-color:tomato;
 }
